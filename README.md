@@ -1,31 +1,41 @@
 # JS FORGE — The SWE Residency
 
-A 16-week, 50-hour-per-week training program for JavaScript, data structures & algorithms, full-stack engineering, and SWE interviews.
+**16 weeks · 50 hours/week · JavaScript · DSA · Full Stack · Interview Readiness**
 
 > Train like an engineer. Solve like an interviewer. Build like it's production.
 
-The interactive dashboard is coming in the initial build. See the program files and weekly plan below.
+JS Forge is a structured four-month personal software-engineering residency—not a loose collection of tutorials. It combines daily algorithm practice, deep JavaScript study, practical full-stack projects, timed examinations, spaced repetition, and a capstone defense.
 
-## Residency targets
-- 16 weeks / 800 training hours
-- 300 LeetCode problems target (60 Easy, 210 Medium, 30 Hard)
-- JavaScript fundamentals through advanced concepts and runtime internals
-- Selected The Odin Project curriculum and practical projects
-- Node.js, Express, PostgreSQL, REST, authentication, testing, deployment
-- Weekly examinations, monthly checkpoints, spaced revision, and final capstone defense
+## The mission
+- 16-week intensive (800 planned training hours)
+- 300 LeetCode new-problem target: 60 Easy, 210 Medium, 30 Hard
+- JavaScript foundations, advanced language behavior, asynchronous programming, browser and Node.js
+- Selected The Odin Project projects and curriculum
+- Node/Express, REST, PostgreSQL, authentication, testing, deployment
+- Weekly assessments, monthly exams, revision and final interview simulation
 
+## Training allocation
+| Track | Hours/week |
+|---|---:|
+| DSA / LeetCode | 20 |
+| JavaScript | 10 |
+| Full-stack / Odin | 15 |
+| Revision / interviews / assessment | 5 |
+| **Total** | **50** |
 
-## Training standard
-50 hours/week: 20 DSA, 10 JavaScript, 15 full-stack/Odin, 5 revision and interview practice. Six training days at roughly 8h20/day; Sunday is review and recovery.
+## Interactive dashboard
+[Open the residency dashboard](https://markkaruga254.github.io/javascript-playground/) once GitHub Pages is enabled. It tracks weekly hours, problem totals, checklist completion, and the calendar in your browser.
 
-## Start here
-- [Residency](RESIDENCY.md)
+## Program documents
+- [Residency rules](RESIDENCY.md)
 - [Curriculum](CURRICULUM.md)
 - [Weekly schedule](WEEKLY-SCHEDULE.md)
-- [Examination policy](EXAMINATION-POLICY.md)
-- [Progress tracker](PROGRESS.md)
+- [Exam policy](EXAMINATION-POLICY.md)
+- [Progress](PROGRESS.md)
 - [Scorecard](SCORECARD.md)
 
+## Training philosophy
+Attempts precede assistance. Projects must be built, tested, and reviewed. Solved is not mastered: reproduce, explain, analyze, and adapt. Closed-book assessments are honest. Work hard while protecting recovery and university responsibilities.
 
-## Academic rule
-Attempt first. Use AI for learning and feedback, never during closed-book assessments. A solved problem is not mastered until you can reproduce, explain, analyze, and adapt it independently.
+## Start
+Open the dashboard, begin Week 1, and maintain a daily log. Keep commits meaningful. This is a demanding target—not a promise of interview outcomes.
